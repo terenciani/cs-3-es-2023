@@ -1,5 +1,41 @@
 <<<<<<< HEAD
 =======
+<<<<<<< HEAD
+<<<<<<< HEAD
+
+# Joile alteração
+=======
+# Alteração allan 
+# Aula exemplo de git
+# qualquer coisa
+>>>>>>> a0062e1888cdc8f5fe36f2b0efe1c4b1ea68dac1
+=======
+# Alteração Luis
+ ⠀⠀⠀⠀⠀⠀⠀⠀⣀⣤⣴⣶⣶⣶⣤⠀⢀⣠⣤⣤⣤⣀⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⢀⣴⣿⣿⡿⣿⠿⠟⠛⠛⠛⠟⠛⠻⠾⣯⣛⠿⣷⢦⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⣠⣯⠞⠋⠁⡴⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠙⡟⠺⣿⣽⣆⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⢀⡼⢻⠏⠀⠀⠀⠀⠀⠀⠀⣀⠤⠴⠒⠚⠛⠒⠲⠤⣄⡀⠈⠻⣏⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⡞⠀⠀⠀⠀⠀⠀⠀⢀⡾⠋⠀⣀⡴⠖⠛⠛⠛⠛⠶⣤⡉⢳⡀⠘⣆⠀⠀⠀⠀⠀⠀⠀
+⠀⣸⠁⠀⠀⠀⠀⠀⠀⢠⠏⠀⢠⡾⠋⠀⠀⠀⠀⠀⠀⠀⠀⠹⣦⠹⡄⠸⡄⠀⠀⠀⠀⠀⠀
+⢀⣏⡀⠀⣀⣀⣀⣠⣴⡟⠀⢠⡟⠀⠀⠀⠀⠀⠀⠀⣶⡿⢿⡆⠘⣇⢹⣾⣿⡄⠀⠀⠀⠀⠀
+⢸⣿⣿⣿⣿⣿⣿⣿⣿⡇⠀⢸⡇⠀⠀⠀⠀⠀⠀⠀⠻⣿⡾⠇⠀⣿⠈⡿⣿⠃⠀⠀⠀⠀⠀
+⠈⢻⠛⠛⠛⠛⠛⠻⢼⣿⠀⠘⣷⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⡏⢸⠃⢸⠀⠀⠀⠀⠀⠀
+⠀⢸⠀⠀⠀⠀⠀⠀⠀⠈⢧⠀⠹⣧⡀⠀⠀⠀⠀⠀⠀⠀⠀⣠⠟⢠⠏⠀⢸⠀⠀⠀⠀⠀⠀
+⠀⠘⡇⠀⠀⠀⠀⠀⠀⠀⠀⠳⣄⡈⠻⢦⣤⣀⣀⣀⣠⡴⠞⢁⣴⠋⠀⠀⢸⡇⠀⠀⠀⠀⠀
+⠀⠀⡇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⠛⠒⠤⠤⣤⣭⣤⡤⠤⠚⠉⠀⠀⠀⠀⠈⡇⠀⠀⠀⠀⠀
+⠀⠀⡇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⠁⠀⠀⠀⢀⡀⠀⠀⠀⠀⣹⡆⠀⠀⠀⠀
+⠀⢀⣇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠘⠲⠤⠤⠤⠤⠤⠤⠒⠉⠀⠀⠀⠀⣰⣿⣷⠀⠀⠀⠀
+⠀⠸⣿⣷⣄⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣀⣠⣴⣿⣿⡿⡀⠀⠀⠀
+⠀⠀⣿⣿⣿⣿⣶⣤⣀⣀⣀⣀⣀⣀⣀⣀⣠⣤⣤⣤⣤⣶⣶⣾⣿⣿⡟⢙⡿⠋⣄⠹⡄⠀⠀
+⠀⢰⠃⠈⠙⠿⣿⣿⡟⠛⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠿⣿⣿⣿⣿⣿⣿⣿⠀⠀⢸⠀⢳⡀⠀
+⢠⡏⠀⢠⠀⠀⠀⠹⣷⣾⣿⣿⣿⣿⣿⣼⣿⡿⠛⠻⢿⣿⣿⣿⣿⣿⣿⣿⡇⠀⣸⣀⠈⣧⠀
+⡾⠀⢠⣯⠀⠀⠀⠀⢿⣿⣿⣿⣿⣿⣿⢿⣿⡀⠿⠟⣩⣿⣏⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷⣼⡀
+⡇⢀⣼⣿⣤⣤⣤⣤⣼⣿⣿⣿⣿⣿⣿⣯⣿⣿⠶⣾⣟⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡿⠟⠁
+⣧⡀⠀⣹⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡿⠁⠀⠀⠀
+⠈⠉⠓⠿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡿⠟⠋⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠉⠻⢿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡿⢿⣿⣿⣿⣿⣿⠋⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣴⣿⣿⣿⣿⣿⡇⠈⢿⣿⣿⣿⡏⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢸⡿⠿⠿⠟⠛⠛⠁⠀⠘⠿⣿⡿⠿⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
 # Alteração allan 
 # Aula exemplo de git
 # qualquer coisa
@@ -13,5 +49,7 @@ Este projeto tem como objetivo apresentar e exemplificar o uso de TDD (Test Driv
 O projeto aqui apresentado é uma aplicação simples de cálculo de desconto em compras, que permite ao usuário escolher um produto, quantidade e preço unitário e calcula o desconto a ser aplicado de acordo com uma tabela pré-definida. O objetivo é que o desenvolvedor utilize TDD para criar a aplicação, ou seja, escreva testes que irão validar o comportamento da aplicação e depois implemente o código fonte de acordo com os testes escritos.
 
 Para executar este projeto, é necessário ter instalado na máquina o ambiente de desenvolvimento Java e as seguintes dependências:
+
+>>>>>>> c2482b3a4e64a3234dc3b286c2856cfa43aeb8eb
 
 JUnit: utilizado para escrever e executar os testes automatizados.
