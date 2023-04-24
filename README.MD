@@ -1,15 +1,14 @@
 <<<<<<< HEAD
-=======
-<<<<<<< HEAD
 <<<<<<< HEAD
 
 # Joile alteração
-=======
+
+
 # Alteração allan 
 # Aula exemplo de git
 # qualquer coisa
->>>>>>> a0062e1888cdc8f5fe36f2b0efe1c4b1ea68dac1
-=======
+
+
 # Alteração Luis
  ⠀⠀⠀⠀⠀⠀⠀⠀⣀⣤⣴⣶⣶⣶⣤⠀⢀⣠⣤⣤⣤⣀⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
 ⠀⠀⠀⠀⠀⢀⣴⣿⣿⡿⣿⠿⠟⠛⠛⠛⠟⠛⠻⠾⣯⣛⠿⣷⢦⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀
@@ -50,6 +49,6 @@ O projeto aqui apresentado é uma aplicação simples de cálculo de desconto em
 
 Para executar este projeto, é necessário ter instalado na máquina o ambiente de desenvolvimento Java e as seguintes dependências:
 
->>>>>>> c2482b3a4e64a3234dc3b286c2856cfa43aeb8eb
+
 
 JUnit: utilizado para escrever e executar os testes automatizados.
