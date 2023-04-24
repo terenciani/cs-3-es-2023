@@ -1,1 +1,1 @@
-# Repositório usado na aula de construção de software do curso de Engenharia de Software do ano de 2023
+Hoje irão rolar lágrimas na avaliação de estatística
