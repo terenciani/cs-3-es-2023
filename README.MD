@@ -1,5 +1,5 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
+# Alteração Gabriel (https://github.com/Gabriel-S-O)
+
 # qualquer coisa
 #Diogo M. França
 =======
