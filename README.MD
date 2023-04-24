@@ -1,1 +1,1 @@
-# Alteração Yuri Gauze
+# Repositório usado na aula de construção de software do curso de Engenharia de Software do ano de 202
