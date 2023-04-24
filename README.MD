@@ -1,5 +1,14 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
+# qualquer coisa
+#Diogo M. França
+=======
+# Alteração allan 
+# Aula exemplo de git
+# qualquer coisa
+>>>>>>> a0062e1888cdc8f5fe36f2b0efe1c4b1ea68dac1
+=======
+<<<<<<< HEAD
 
 # Joile alteração
 
@@ -53,3 +62,4 @@ Para executar este projeto, é necessário ter instalado na máquina o ambiente 
 
 
 JUnit: utilizado para escrever e executar os testes automatizados.
+>>>>>>> ec5906e196fac1c7042ef7f10ef71e1fb036b23c
